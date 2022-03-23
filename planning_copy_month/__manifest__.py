@@ -30,5 +30,5 @@
     ],
     'application': True,
 
-    'license': 'OEEL-1',
+    'license': 'OPL-1',
 }

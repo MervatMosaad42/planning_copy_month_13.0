@@ -28,7 +28,7 @@
         'data/planning_demo.xml',
     ],
     'application': True,
-    'license': 'OEEL-1',
+    'license': 'OPL-1',
     'qweb': [
         'static/src/xml/planning_gantt.xml',
         'static/src/xml/field_colorpicker.xml',
