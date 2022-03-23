@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///odoo_source/odoo_14.0+e.latest_all/data/usr/lib/python3/dist-packages/odoo/addons/planning/.idea/planning.iml" filepath="/odoo_source/odoo_14.0+e.latest_all/data/usr/lib/python3/dist-packages/odoo/addons/planning/.idea/planning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/planning_copy_month.iml" filepath="$PROJECT_DIR$/.idea/planning_copy_month.iml" />
+    </modules>
+  </component>
+</project>

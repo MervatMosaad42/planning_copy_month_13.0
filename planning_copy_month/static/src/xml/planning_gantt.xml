@@ -1,0 +1,9 @@
+<templates id="copy_previous_month" xml:space="preserve">
+    <div t-extend="PlanningGanttView.buttons">
+        <t t-jquery=".o_gantt_button_copy_previous_week" t-operation="after">
+            <button class="o_gantt_button_copy_previous_month btn btn-secondary mr-3" title="Copy previous month" id="Copy_previous_month">
+            Copy previous month
+            </button>
+        </t>
+    </div>
+</templates>
